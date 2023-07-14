@@ -16,5 +16,6 @@ Para preencher o formulário, siga as instruções abaixo:
 Certifique-se de fornecer os dados corretos e ter o arquivo .xlsx na pasta raiz antes de executar o script.
 
 Para instalar todas as libs necessárias
+
 pip install -r requirements.txt
 
