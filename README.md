@@ -14,3 +14,7 @@ Para preencher o formulário, siga as instruções abaixo:
 4. Verifique se o formulário preenchido corretamente foi gerado na pasta de destino.
 
 Certifique-se de fornecer os dados corretos e ter o arquivo .xlsx na pasta raiz antes de executar o script.
+
+Para instalar todas as libs necessárias
+pip install -r requirements.txt
+
